@@ -45,6 +45,7 @@ To compile and run your project.
   -Student creates his/her project, send requests to faculty and other students
   -Faculty and other students come in program and accept to be members and advisor
   -And after that up to you 
+  if nothing weird happens it should run as usual with some missing functions I said below
   
 
 | Role | Action | Method  | Class | Completion percentage |
@@ -69,15 +70,19 @@ To compile and run your project.
 | Advisor  | approve project to solicit | approve_project  | Advisor  | 80  |
 | Admin  | can see all project and change information in it  | view_and_modify_all_projects  | Admin  | 80  |
 | Admin  | add or remove person to the system  | add_or_remove_person  | Admin  | 0  |
+| Admin  | check advisor request and change info  | manage_advisor_request  | Admin  | 50  |
+| Admin  | check member request and change info  | manage_member_request  | Admin  | 50  |
 
 BugAndMissingfeatures
   -
   1.Bug
   
+    
 
     
   2.MissingFeatures
   
     -I didnt do evaluate projects at all ;-;(Could you possibly change deadline? Im sure that if I get 1-2 more days,I will finish it.)
     -Now I didnt make an exit choice for you. If you finish any choice you want to try,you have to stop the program and start it again. I really really really sorry about this. T-T
-    -For all valueerror(if you try to put any names in my program whether has it or not, it wont error)
+    -check typeerror and valueerror(if you try to put any names in my program whether has it or not, it wont error)
+    -I cant make remove person function 
