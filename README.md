@@ -68,8 +68,7 @@ To compile and run your project.
 | Advisor  | i still dont know | evaluate_projects  | Advisor  | 0  |
 | Advisor  | approve project to solicit | approve_project  | Advisor  | 80  |
 | Admin  | can see all project and change information in it  | view_and_modify_all_projects  | Admin  | 80  |
-| Admin  | add or remove person to the system  | add_or_remove_person  | Admin  | 70  |
-| Admin  | can change role of everyone  | change_person_role  | Admin  | 80  |
+| Admin  | add or remove person to the system  | add_or_remove_person  | Admin  | 0  |
 
 BugAndMissingfeatures
   -
